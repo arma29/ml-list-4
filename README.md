@@ -1,6 +1,6 @@
-# Sistema de detecção de bugs em software - Aprendizagem de Máquina
+# Naive Bayes com k-Means  - Aprendizagem de Máquina
 
-O Objetivo do projeto é a proposição e implementação de um sistema de detecção de bugs em softwares através de bases de dados. As duas bases de dados foram retiradas do repositório [Promise](http://promise.site.uottawa.ca/SERepository/datasets-page.html).
+O Objetivo do projeto é a implementação do classificador Bayesiano em uma base de dados clusterizada com o k-Means, bem como sua comparação com o 1-NN e o Naive Bayes sem este procedimento inicial. As duas bases de dados foram retiradas do repositório [Promise](http://promise.site.uottawa.ca/SERepository/datasets-page.html).
 
 ### Requisitos
 
